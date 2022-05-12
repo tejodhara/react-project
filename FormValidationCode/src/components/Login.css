@@ -1,0 +1,10 @@
+.form__main{
+    width:40%;
+    margin-top:5%;
+}
+.errormsg{
+    color: red;
+    font-size: smaller;
+    text-align: left;
+
+}
